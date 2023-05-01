@@ -21,7 +21,7 @@
     "@vue/eslint-config-airbnb": "^7.0.0",
     "@babel/eslint-parser": "^7.11.0",
     "eslint": "^8.0.0",
-    "eslint-loader": "^2.1.1",
+    "eslint-loader": "^4.0.0",
     "eslint-plugin-vue": "^9.0.0"
   },
   "engines": {
