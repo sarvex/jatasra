@@ -19,7 +19,7 @@
   "devDependencies": {
     "@quasar/app": "3.3.3",
     "@vue/eslint-config-airbnb": "7.0.0",
-    "@babel/eslint-parser": "7.22.10",
+    "@babel/eslint-parser": "7.22.11",
     "eslint": "8.48.0",
     "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "9.17.0"
