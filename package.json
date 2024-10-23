@@ -12,14 +12,14 @@
   },
   "dependencies": {
     "@quasar/extras": "1.16.12",
-    "axios": "1.7.4",
+    "axios": "1.7.7",
     "quasar": "2.16.9",
-    "vue-i18n": "9.14.0"
+    "vue-i18n": "9.14.1"
   },
   "devDependencies": {
     "@quasar/app": "3.3.3",
     "@vue/eslint-config-airbnb": "8.0.0",
-    "@babel/eslint-parser": "7.25.1",
+    "@babel/eslint-parser": "7.25.9",
     "eslint": "9.9.1",
     "eslint-loader": "4.0.2",
     "eslint-plugin-vue": "9.28.0"
