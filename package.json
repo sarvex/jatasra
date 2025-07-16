@@ -14,7 +14,7 @@
     "@quasar/extras": "1.16.17",
     "axios": "1.8.4",
     "quasar": "2.18.1",
-    "vue-i18n": "11.1.2"
+    "vue-i18n": "11.1.10"
   },
   "devDependencies": {
     "@quasar/app": "3.3.3",
